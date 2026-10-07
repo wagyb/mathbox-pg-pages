@@ -1,0 +1,1 @@
+function e(){}function t(){}export{e as getCliDesktopAcceptanceImage,t as getCliDesktopAcceptanceRecognition};

@@ -1,0 +1,1 @@
+import{t as e}from"./entityDetailsManager-BAUz_YCk.js";export{e as DetailsManager};

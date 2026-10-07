@@ -1,4 +1,4 @@
-# Project Graph (no-tauri) — GitHub Pages embed build
+﻿# Project Graph (no-tauri) — GitHub Pages embed build
 
 This repository redistributes **built static assets only** of [Project Graph](https://github.com/graphif/project-graph) (@graphif/project-graph), GPL-3.0-only.
 

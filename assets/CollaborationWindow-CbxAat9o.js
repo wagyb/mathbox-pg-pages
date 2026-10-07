@@ -1,0 +1,1 @@
+import{P as e}from"./EdgeCollisionBoxGetter-RDMgj9zb.js";export{e as default};

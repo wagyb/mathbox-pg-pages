@@ -1,0 +1,1 @@
+import{t as e}from"./TabWorkspace-BbRa9zy2.js";export{e as TabWorkspace};
